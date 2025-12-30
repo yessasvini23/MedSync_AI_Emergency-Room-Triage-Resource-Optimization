@@ -88,25 +88,26 @@ No Fine-Tuning — built entirely with structured prompting
 MedSync AI shows how prompt engineering can replace traditional backend logic for safety-critical systems.
 
 
-🎥 Live Demo & Prototype
-🎬 Demo Video (≤ 3 minutes)
+## 🎥 Live Demo & Prototype
+
+### 🎬 Demo Video (≤ 3 minutes)
 https://youtu.be/VUoPJCJl3p0
 
-🌐 Live App (Google AI / Cloud Run)
+### 🌐 Live App (Google AI / Cloud Run)
 https://medsync-ai.streamlit.app/
 
-📱 Mobile UI Preview (Swift Triage)
+### 📱 Mobile UI Preview (Swift Triage)
 https://swift-triage-ace.lovable.app
 
 
-🛠 Tech Stack
+###🛠 Tech Stack
 Google AI Studio – prompt design, testing, and live sharing
 Gemini – AI reasoning for triage, risk, and routing
 Prompt Engineering – system-level logic and safety rules
 Synthetic Healthcare Data – safe simulation of patient and hospital data
 
 
-👥 Who It’s Built For
+###👥 Who It’s Built For
 Paramedics and EMTs
 Emergency department clinicians
 Hospital operations teams
@@ -114,18 +115,19 @@ Public health and emergency coordinators
 MedSync AI reduces cognitive load while improving speed and safety.
 
 
-⚠️ Safety & Ethics
+###⚠️ Safety & Ethics
 This project provides AI-assisted decision support only.
 It does not replace professional medical judgment or diagnosis.
 
 
-🌍 Vision
+###🌍 Vision
 With real hospital integrations, MedSync AI could become critical emergency infrastructure, helping cities reduce wait times, optimize hospital capacity, and save lives at scale.
 
-👩‍💻 Author
+###👩‍💻 Author
 Yessasvini Sudarshanam
 AI & Social Impact Builder
 
-📜 License
+###📜 License
 Shared for educational and demonstration purposes as part of the Build the Future Showcase.
+
 
